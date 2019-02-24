@@ -2,7 +2,8 @@
 
 
 ****************************** INTRODUCTION**************************
-This code is used to recover phase and source for partially coherent defocus stack. The code is only for academic and nonprofit use. 
+This code is used to recover phase and source for partially coherent defocus stack by nonlinear optimization. 
+The code is only for academic and nonprofit use. 
 
 The Input parameters:
 Ividmeas: defocused intensity stack measured along the propagation axis
